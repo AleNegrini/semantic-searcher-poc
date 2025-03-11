@@ -1,0 +1,8 @@
+spring:
+    elasticsearch:
+        # Spring Elasticsearch Evolution [MIGRATION]
+        password: changeme
+        username: changeme
+        uris: http://localhost:9200
+        evolution:
+            historyIndex: icd10-es-evolution
