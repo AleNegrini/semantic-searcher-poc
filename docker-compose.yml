@@ -13,6 +13,7 @@ services:
     environment:
       - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
       - xpack.security.enabled=false
+      - xpack.ml.enabled=true
       - discovery.type=single-node
     ulimits:
       memlock:

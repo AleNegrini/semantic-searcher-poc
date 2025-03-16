@@ -1,0 +1,148 @@
+﻿Dipartimento federale dell'interno DFI
+Ufficio federale di statistica UST
+Divisione Salute e affari sociali 
+Classificazioni mediche
+																																																																																																																																																																																																						
+Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, 10a revisione - German Modification – Indice sistematico  – Versione 2024 del 31.10.2024																																																																																																					
+																																																																																																					
+Fonti e validità: L’ICD-10-GM 2024 (ICD-10-GM dall’inglese International Classification of Diseases, Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, 10a revisione - German Modification) è l’adeguamento della versione italiana dell’ICD-10-GM 2022. 
+La traduzione si basa sull’ICD-10-GM 2024 edita in Germania dal Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) (stato: 15 settembre 2023).																																																																																																					
+La versione 2024 dell’ICD-10-GM è valida in Svizzera dal 1° gennaio 2025. 
+Dalla sua entrata in vigore, l’uso della classificazione è obbligatorio per la codifica delle diagnosi nel quadro della della rilevazione Assistenza sanitaria ospedaliera stazionaria (SpiGes). 
+
+Lingue e formati: L’ICD-10-GM 2024 è disponibile in tedesco presso il BfArM e in lingua francese e italiana presso l’UST. 
+La versione italiana dell’ICD-10-GM 2024 è disponibile nei formati PDF, ClaML, CSV e in versione stampata.
+
+Ulteriori informazioni: v. Introduzione dell’indice sistematico dell’ICD-10-GM 2024 in formato PDF.	https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/nomenclature/medkk/strumenti-codifica-medica.html																																																																																																			L’ICD-10-GM 2022 è disponibile in tedesco presso il BfArM e in lingua francese e italiana presso l’UST. La versione italiana dell’ICD-10-GM 2022 è disponibile nei formati PDF,ClaML, CSV e in versione stampata.																																																																																																																																																																																																										
+																																																																																																					
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx																																																																																																					
+																																																																																																					
+CSV - versione metadati																																																																																																					
+																																																																																																					
+La versione metadati CSV riporta tutti i titoli dei capitoli, dei gruppi e dei codici da 3 a 5 caratteri. 
+La gerarchia di classificazione è rappresentata nel file contenente i codici. Tale file contiene anche i metadati che indicano un legame con il sesso o l’età, e il relativo tipo di errore. All’interno del file, una colonna indica se la malattia è rara in Europa centrale (i relativi codici sono potenziali errori di codifica). 
+Il file non contiene informazioni aggiuntive sui codici, come le inclusioni, i testi esplicativi ecc. Le informazioni inerenti al contesto legislativo tedesco e i riferimenti alle lista di mortalità non sono riprese nei file pubblicati dall’UST.
+
+I file CSV in versione metadati permettono di:
+- collegare il codice al titolo
+- raggruppare i codici per gruppo, capitolo e segni particolari a scopi statistici
+- verificare se i codici sono formalmente corretti
+- verificare i codici rispetto al sesso e all’età del paziente
+
+I file CSV in versione metadati non sono appropriati per un programma di codifica in quanto mancano le informazioni importanti dell’indice sistematico. La mancanza di informazioni sui codici (inclusioni, esclusioni e testi esplicativi) rende la classificazione inadatta al lavoro.																																																																																																					
+																																																																																																					
+File
+	ICD10GM2024_CSV_S_IT_versionemetadati_capitoli_20241031																																																																																																				
+	ICD10GM2024_CSV_S_IT_versionemetadati_gruppi_20241031																																																																																																				
+	ICD10GM2024_CSV_S_IT_versionemetadati_codici_20241031																																																																																																				
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Novità: slittamento delle colonne in ragione dell'introduzione della colonna 13 «Riferimento alla lista delle morbidità» nel file «versionmétadonnée_codes».
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+INDICAZIONI SULLA VERSIONE DI RIFERIMENTO
+
+La versione di riferimento dell’indice sistematico è quella in lingua tedesca ICD-10-GM 2024 in formato PDF del BfArM.	
+In caso di discordanza tra l'indice sistematico e l'indice alfabetico, prevale l'indice sistematico.
+In caso di discordanza tra i diversi formati tecnici dell'Indice sistematico o dell'indice alfabetico, prevale la corrispondente versione di riferimento ossia quella in formato PDF. 
+Qualora in corso d'anno siano effettuati aggiornamenti e correzioni della versione in lingua tedesca, il BfArM informa tramite errata corrige disponibili e scaricabili per ciascuna classificazione sul suo sito Internet (https://www.bfarm.de/DE/Kodiersysteme/Services/Downloads/_node.html). 
+Per la versione in lingua italiana e quella in lingua francese, le correzioni sono pubblicate dall'UST tra gli strumenti in vigore per la codifica medica.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Informazioni tecniche																																																																																																					
+Descrizione delle variabili della versione - CSV - metadati					
+					
+Repertorio di caratteri: UTF-8					
+					
+I file sono composti nel seguente modo:					
+					
+ICD10GM2024_CSV_S_IT_versionemetadati_capitoli_20241031					
+Contiene i capitoli dell’indice sistematico dell’ICD-10-GM					
+	Colonna 1	Numero di capitolo, max. 2 caratteri			
+	Colonna 2	Titolo del capitolo, fino a 255 caratteri			
+					
+ICD10GM2024_CSV_S_IT_versionemetadati_gruppi_20241031					
+Contiene i gruppi dell’indice sistematico dell’ICD-10-GM (per i capitoli contenenti gruppi collegati sono rappresentati solo i sottogruppi; p.es. per il capitolo 2 non sono rappresentati i gruppi di livello 1 e 2 C00-C97 e C00-C75, mentre lo sono i gruppi di livello 3 C00-C14).					
+	Colonna 1	Primo codice a 3 caratteri del gruppo			
+	Colonna 2	Ultimo codice a 3 caratteri del gruppo			
+	Colonna 3	Numero del capitolo, max. 2 caratteri			
+	Colonna 4	Titolo del gruppo, fino a 255 caratteri			
+					
+ICD10GM2024_CSV_S_IT_versionemetadati_codici_20241031					
+Contiene i codici dell’indice sistematico dell’ICD-10-GM					
+	Colonna 1	Livello gerarchico della classificazione, 1 carattere			
+				3 =	Codice a 3 cifre		
+				4 =	Codice a 4 cifre		
+				5 =	Codice a 5 cifre		
+	Colonna 2	Posizionamento del codice nell’arborescenza della classificazione, 1 carattere			
+				T =	Codice finale (codice codificabile)		
+				N =	Codice non finale (codice non codificabile)		
+	Colonna 3	Tipo di codice da 4 a 5 cifre			
+				X =	Menzionato in modo chiaro (pre-combinato)		
+				S =	Per sottoclassificazione (post-combinato)		
+	Colonna 4	Numero del capitolo, max. 2 caratteri			
+	Colonna 5	Primo codice a 3 cifre del gruppo			
+	Colonna 6	Codice senza daga eventuale, fino a 7 caratteri			
+	Colonna 7	Codice fino a 6 caratteri, esclusi trattino, asterisco o punto esclamativo			
+	Colonna 8	Codice fino a 5 caratteri, esclusi punto, trattino, asterisco o punto esclamativo			
+	Colonna 9	Titolo della classe, composto dalle componenti dei titoli dei codici a 3, 4 e 5 posizioni, se esistenti, fino a 255 caratteri			
+	Colonna 10	Titolo di codice da 3 cifre, se esistente, fino a 255 caratteri			
+	Colonna 11	Titolo di codice da 4 cifre, se esistente, fino a 255 caratteri			
+	Colonna 12	Titolo di codice da 5 cifre, se esistente, fino a 255 caratteri	
+	Colonna 13	Riferimento alla lista delle morbidità
+	Colonna 14	Legame tra codice e sesso			
+				9 =	Nessun legame con il sesso		
+				M =	Maschile		
+				W =	Femminile		
+	Colonna 15	Tipi di errore in caso di legame tra codice e sesso			
+				9 =	Non pertinente		
+				K =	Possibile errore		
+	Colonna 16	Limite inferiore di età in un codice (una malattia può insorgere a partire dall’età di almeno n giorni/anni di vita compiuti.)			
+				9999 =	non pertinente		
+				t000 - t364 =	da 0 giorni compreso il periodo fetale - da 364 giorni di vita		
+				dunque	t000 = dalla nascita (dal 1° giorno di vita) compreso il periodo fetale		
+						t001 = da 1 giorno di vita compiuto (dal 2° giorno di vita)		
+						t002 = da 2 giorni di vita compiuti (dal 3° giorno di vita)		
+						e così via		
+						t028 = da 28 giorni di vita compiuti (dal 29esimo giorno di vita, dal 2° mese di vita)		
+						e così via fino a		
+						t364 = da 364 giorni di vita compiuti (dal 365esimo giorno di vita)		
+				j001 - j124 =	da 1 anno di vita - da 124 anni di vita		
+				dunque	j001 - j124 = da 1 anno di vita compiuto (dal 2° anno; da 365 giorni di vita compiuti)	
+						j002 = da 2 anni di vita compiuti (dal 3° anno di vita)		
+						e così via fino a		
+						j124 = da 124 anni di vita compiuti (dal 125° anno di vita)		
+	Colonna 17	Limite superiore di età in un codice (una malattia può insorgere fino al massimo all’età di almeno m giorni/anni di vita compiuti.)			
+				9999=	non pertinente		
+				t000 - t364 =	0 giorni - fino a 364 giorni		
+				dunque	t000 = fetale, prima della nascita		
+						t001 = fino a 1 giorno di vita compiuto (sino alla fine del 1° giorno di vita)		
+						t002 = fino a 2 giorno di vita compiuto (sino alla fine del 1° giorno di vita)		
+						e così via fino a		
+						t364 = fino a 364 giorni di vita compiuti (fino alla fine del 364esimo giorno di vita)		
+				j001 - j124 =	fino a 1 anno - fino a 124 anni		
+				dunque	j001 = fino a 1 anno di vita compiuto (fino alla fine del 1° anno di vita; sino alla fine del 365esimo giorno di vita)		
+						j002 = fino a 2 anni di vita compiuti (sino alla fine del 2° anno di vita)		
+						e così via fino a		
+						j124 = fino a 124 anni de vita compiuti (sino alla fine del 124esimo anno di vita)		
+	Colonna 18	Tipi di errore legati all’età			
+				9 =	Non pertinente		
+				M =	Errore		
+				K =	Possibile errore		
+	Colonna 19	É una malattia rara in Europa centrale ?			
+				J =	Sì (--> Può causare errori!)		
+				N =	No		
+	Colonna 20	Il codice riporta un’informazione sul contenuto ?			
+				J =	Sì		
+				N =	No (--> Può causare errori!)		
+																																																																																																					
+																																																																																																																																																																																																																																																																																																																																																																																																																				
+Ufficio federale di statistica, Classificazioni mediche																																																																																																					
+Informazioni: Segreteria di codifica dell’UST (codeinfo@bfs.admin.ch)
+Versione basata sull’ICD-10-GM del Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM). 
+Riproduzione autorizzata, eccetto per scopi commerciali, con citazione della fonte. 
+L’uso della versione in francese e in italiano è consentito esclusivamente sul territorio svizzero.																																																																																																					
+© UST – 2024																																																																																																					

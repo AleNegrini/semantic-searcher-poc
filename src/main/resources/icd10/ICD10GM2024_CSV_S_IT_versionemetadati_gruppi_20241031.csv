@@ -1,0 +1,243 @@
+﻿A00;A09;1;Malattie infettive intestinali
+A15;A19;1;Tubercolosi
+A20;A28;1;Alcune malattie batteriche trasmesse da animali
+A30;A49;1;Altre malattie batteriche
+A50;A64;1;Infezioni a trasmissione prevalentemente sessuale
+A65;A69;1;Altre malattie da spirochete
+A70;A74;1;Altre malattie causate da Chlamydiae
+A75;A79;1;Rickettsiosi
+A80;A89;1;Infezioni virali del sistema nervoso centrale
+A92;A99;1;Febbri virali da artropodi e febbri virali emorragiche
+B00;B09;1;Infezioni virali caratterizzate da lesioni della cute e delle membrane mucose
+B15;B19;1;Epatite virale
+B20;B24;1;Malattia da virus dell’immunodeficienza umana [HIV]
+B25;B34;1;Altre malattie virali
+B35;B49;1;Micosi
+B50;B64;1;Malattie protozoarie
+B65;B83;1;Elmintiasi
+B85;B89;1;Pediculosi, acariosi e altre infestazioni parassitarie della pelle
+B90;B94;1;Sequele di malattie infettive e parassitarie
+B95;B98;1;Batteri, virus ed altri agenti infettivi come causa di malattie classificate altrove
+B99;B99;1;Altre malattie infettive
+C00;C14;2;Tumori maligni del labbro, della cavità orale e della faringe
+C15;C26;2;Tumori maligni degli organi dell’apparato digerente
+C30;C39;2;Tumori maligni dell’apparato respiratorio e degli organi intratoracici
+C40;C41;2;Tumori maligni di osso e cartilagine articolare
+C43;C44;2;Melanoma ed altri tumori maligni della cute
+C45;C49;2;Tumori maligni di tessuto mesoteliale e dei tessuti molli
+C50;C50;2;Tumore maligno della mammella
+C51;C58;2;Tumori maligni degli organi genitali femminili
+C60;C63;2;Tumori maligni degli organi genitali maschili
+C64;C68;2;Tumori maligni dell’apparato urinario
+C69;C72;2;Tumore maligno dell’occhio, dell’encefalo e di altre parti del sistema nervoso centrale
+C73;C75;2;Tumori maligni della tiroide e delle altre ghiandole endocrine
+C76;C80;2;Tumori maligni di sedi mal definite, tumori secondari e di sedi non specificate
+C81;C96;2;Tumore maligno del tessuto linfatico, ematopoietico e tessuti correlati, dichiarato primitivo o presunto tale
+C97;C97;2;Tumori maligni di sedi indipendenti (primitive) multiple
+D00;D09;2;Tumori in situ
+D10;D36;2;Tumori benigni
+D37;D48;2;Tumori di comportamento incerto o sconosciuto
+D50;D53;3;Anemie Nutrizionali
+D55;D59;3;Anemie emolitiche
+D60;D64;3;Anemia aplastica e altre anemie
+D65;D69;3;Difetti della coagulazione, porpore e altre condizioni emorragiche
+D70;D77;3;Altre malattie del sangue e degli organi ematopoietici
+D80;D90;3;Alcuni disturbi interessanti il sistema immunitario
+E00;E07;4;Disturbi della tiroide
+E10;E14;4;Diabete mellito
+E15;E16;4;Altri disturbi della regolazione del glucosio e della secrezione endocrina pancreatica
+E20;E35;4;Disturbi di altre ghiandole endocrine
+E40;E46;4;Malnutrizione
+E50;E64;4;Altri deficit nutrizionali
+E65;E68;4;Obesità ed altre forme di iperalimentazione
+E70;E90;4;Disturbi metabolici
+F00;F09;5;Disturbi psichici di natura organica, compresi quelli sintomatici
+F10;F19;5;Disturbi psichici e comportamentali da uso di sostanze psicoattive
+F20;F29;5;Schizofrenia, disturbo schizotipico e disturbi deliranti
+F30;F39;5;Disturbi dell’umore [affettivi]
+F40;F48;5;Disturbi nevrotici, legati a stress e somatoformi
+F50;F59;5;Sindromi comportamentali associate a disfunzioni fisiologiche e a fattori fisici
+F60;F69;5;Disturbi della personalità e del comportamento nell’adulto
+F70;F79;5;Ritardo mentale
+F80;F89;5;Disturbi dello sviluppo psicologico
+F90;F98;5;Disturbi comportamentali e della sfera emozionale con esordio abituale nell’infanzia e nell’adolescenza
+F99;F99;5;Disturbo mentale non specificato
+G00;G09;6;Malattie infiammatorie del sistema nervoso centrale
+G10;G14;6;Atrofie sistemiche interessanti principalmente il sistema nervoso centrale
+G20;G26;6;Disturbi extrapiramidali e del movimento
+G30;G32;6;Altre malattie degenerative del sistema nervoso
+G35;G37;6;Malattie demielinizzanti del sistema nervoso centrale
+G40;G47;6;Disturbi episodici e parossistici
+G50;G59;6;Disturbi dei nervi, delle radici nervose e dei plessi nervosi
+G60;G64;6;Polineuropatie ed altri disturbi del sistema nervoso periferico
+G70;G73;6;Malattie della giunzione neuromuscolare e dei muscoli
+G80;G83;6;Paralisi cerebrale ed altre sindromi paralitiche
+G90;G99;6;Altri disturbi del sistema nervoso
+H00;H06;7;Disturbi delle palpebre, dell’apparato lacrimale e dell’orbita
+H10;H13;7;Disturbi della congiuntiva
+H15;H22;7;Disturbi della sclera, della cornea, dell’iride e del corpo ciliare
+H25;H28;7;Disturbi del cristallino
+H30;H36;7;Disturbi della coroide e della retina
+H40;H42;7;Glaucoma
+H43;H45;7;Disturbi del corpo vitreo e del globo oculare
+H46;H48;7;Disturbi del nervo ottico e delle vie ottiche
+H49;H52;7;Disturbi dei muscoli oculari, dei movimenti binoculari, di accomodazione e vizi di rifrazione
+H53;H54;7;Disturbi visivi e cecità
+H55;H59;7;Altri disturbi dell’occhio e degli annessi oculari
+H60;H62;8;Malattie dell’orecchio esterno
+H65;H75;8;Malattie dell’orecchio medio e della mastoide
+H80;H83;8;Malattie dell’orecchio interno
+H90;H95;8;Altri disturbi dell’orecchio
+I00;I02;9;Reumatismo articolare acuto
+I05;I09;9;Cardiopatie reumatiche croniche
+I10;I15;9;Malattie ipertensive
+I20;I25;9;Cardiopatie ischemiche
+I26;I28;9;Cuore polmonare e malattie del circolo polmonare
+I30;I52;9;Altre forme di cardiopatia
+I60;I69;9;Malattie cerebrovascolari
+I70;I79;9;Malattie delle arterie, delle arteriole e dei capillari
+I80;I89;9;Malattie delle vene, dei vasi linfatici e dei linfonodi non classificate altrove
+I95;I99;9;Altri e non specificati disturbi del sistema circolatorio
+J00;J06;10;Infezioni acute delle vie respiratorie superiori
+J09;J18;10;Influenza e polmonite
+J20;J22;10;Altre infezioni acute delle inferiori vie respiratorie
+J30;J39;10;Altre malattie delle vie respiratorie superiori
+J40;J47;10;Malattie croniche delle vie respiratorie inferiori
+J60;J70;10;Malattie polmonari da agenti esterni
+J80;J84;10;Altre pneumopatie che interessano prevalentemente l’interstizio
+J85;J86;10;Malattie suppurative e necrotiche delle vie respiratorie inferiori
+J90;J94;10;Altre malattie della pleura
+J95;J99;10;Altre malattie dell’apparato respiratorio
+K00;K14;11;Malattie della cavità orale, delle ghiandole salivari e dei mascellari
+K20;K31;11;Malattie dell’esofago, dello stomaco e del duodeno
+K35;K38;11;Malattie dell’appendice
+K40;K46;11;Ernie
+K50;K52;11;Enteriti e coliti non infettive
+K55;K64;11;Altre malattie dell’intestino
+K65;K67;11;Malattie del peritoneo
+K70;K77;11;Malattie del fegato
+K80;K87;11;Disturbi della colecisti, delle vie biliari e del pancreas
+K90;K93;11;Altre malattie dell’apparato digerente
+L00;L08;12;Infezioni della cute e del tessuto sottocutaneo
+L10;L14;12;Malattie bollose
+L20;L30;12;Dermatite con eczema
+L40;L45;12;Malattie papulosquamose della cute
+L50;L54;12;Orticaria ed eritema
+L55;L59;12;Disturbi della cute e del tessuto sottocutaneo da radiazioni
+L60;L75;12;Disturbi degli annessi cutanei
+L80;L99;12;Altri disturbi della cute e del tessuto sottocutaneo
+M00;M03;13;Artropatie infettive
+M05;M14;13;Poliartropatie infiammatorie
+M15;M19;13;Artrosi
+M20;M25;13;Altri disturbi delle articolazioni
+M30;M36;13;Disturbi sistemici del tessuto connettivo
+M40;M43;13;Dorsopatie deformanti
+M45;M49;13;Spondilopatie
+M50;M54;13;Altre dorsopatie
+M60;M63;13;Disturbi muscolari
+M65;M68;13;Disturbi delle sinovie e dei tendini
+M70;M79;13;Altri disturbi dei tessuti molli
+M80;M85;13;Disturbi della densità e della struttura delle ossa
+M86;M90;13;Altre osteopatie
+M91;M94;13;Condropatie
+M95;M99;13;Altri disturbi del sistema osteomuscolare e del tessuto connettivo
+N00;N08;14;Malattie glomerulari
+N10;N16;14;Malattie renali tubulo-interstiziali
+N17;N19;14;Insufficienza renale
+N20;N23;14;Urolitiasi
+N25;N29;14;Altri disturbi del rene e dell’uretere
+N30;N39;14;Altre malattie dell’apparato urinario
+N40;N51;14;Malattie dell’apparato genitale maschile
+N60;N64;14;Disturbi della mammella
+N70;N77;14;Malattie infiammatorie di organi pelvici femminili
+N80;N98;14;Disturbi non infiammatori dell’apparato genitale femminile
+N99;N99;14;Altri disturbi dell’apparato genitourinario
+O00;O08;15;Gravidanza con esito abortivo
+O09;O09;15;Durata della gravidanza
+O10;O16;15;Edema, proteinuria e disturbi ipertensivi in gravidanza, parto e puerperio
+O20;O29;15;Altri disturbi materni correlati prevalentemente alla gravidanza
+O30;O48;15;Assistenza prestata alla madre per motivi legati al feto o alla cavità amniotica e per possibili problemi del parto
+O60;O75;15;Complicanze del travaglio e del parto
+O80;O82;15;Parto
+O85;O92;15;Complicanze correlate prevalentemente al puerperio
+O94;O99;15;Altre condizioni morbose gravidiche non classificate altrove
+P00;P04;16;Feto e neonato sofferenti per fattori materni e complicanze della gravidanza, del travaglio e del parto
+P05;P08;16;Disturbi correlati alla durata della gestazione ed all’accrescimento fetale
+P10;P15;16;Traumi da parto
+P20;P29;16;Disturbi respiratori e cardiovascolari specifici del periodo perinatale
+P35;P39;16;Infezioni specifiche del periodo perinatale
+P50;P61;16;Disturbi emorragici ed ematologici del feto e del neonato
+P70;P74;16;Disturbi endocrini e metabolici transitori specifici del feto e del neonato
+P75;P78;16;Disturbi dell’apparato digerente del feto e del neonato
+P80;P83;16;Condizioni morbose che interessano la cute e la termoregolazione del feto e del neonato
+P90;P96;16;Altri disturbi che hanno origine nel periodo perinatale
+Q00;Q07;17;Malformazioni congenite del sistema nervoso
+Q10;Q18;17;Malformazioni congenite dell’occhio, dell’orecchio, del viso e del collo
+Q20;Q28;17;Malformazioni congenite dell’apparato circolatorio
+Q30;Q34;17;Malformazioni congenite dell’apparato respiratorio
+Q35;Q37;17;Schisi del labbro, del palato e dell’osso mascellare
+Q38;Q45;17;Altre malformazioni congenite dell’apparato digerente
+Q50;Q56;17;Malformazioni congenite degli organi genitali
+Q60;Q64;17;Malformazioni congenite dell’apparato urinario
+Q65;Q79;17;Malformazioni e deformazioni congenite del sistema osteomuscolare
+Q80;Q89;17;Altre malformazioni congenite
+Q90;Q99;17;Anomalie cromosomiche non classificate altrove
+R00;R09;18;Sintomi e segni che interessano gli apparati circolatorio e respiratorio
+R10;R19;18;Sintomi e segni che interessano l’apparato digerente e l’addome
+R20;R23;18;Sintomi e segni che interessano la cute ed il tessuto sottocutaneo
+R25;R29;18;Sintomi e segni che interessano il sistema nervoso ed il sistema osteomuscolare
+R30;R39;18;Sintomi e segni che interessano l’apparato urinario
+R40;R46;18;Sintomi e segni che interessano le facoltà cognitive, la percezione, lo stato emotivo ed il comportamento
+R47;R49;18;Sintomi e segni che interessano il linguaggio e la voce
+R50;R69;18;Sintomi e segni generali
+R70;R79;18;Risultati anormali, non diagnostici, di esame del sangue
+R80;R82;18;Risultati anormali, non diagnostici, di esame dell’urina
+R83;R89;18;Risultati anormali, non diagnostici, di esame di altri liquidi, sostanze e tessuti corporei
+R90;R94;18;Risultati anormali di diagnostica per immagini e di esami per studi di funzionalità, non diagnostici
+R95;R99;18;Cause mal definite e sconosciute di mortalità
+S00;S09;19;Traumatismi della testa
+S10;S19;19;Traumatismi del collo
+S20;S29;19;Traumatismi del torace
+S30;S39;19;Traumatismi dell’addome, della regione lombosacrale, della colonna vertebrale e della pelvi
+S40;S49;19;Traumatismi della spalla e del braccio
+S50;S59;19;Traumatismi del gomito e dell’avambraccio
+S60;S69;19;Traumatismi del polso e della mano
+S70;S79;19;Traumatismi dell’anca e della coscia
+S80;S89;19;Traumatismi del ginocchio e della gamba
+S90;S99;19;Traumatismi della caviglia e del piede
+T00;T07;19;Traumatismi interessanti regioni corporee multiple
+T08;T14;19;Traumatismi di sede non specificata del tronco, di arto o di altra regione corporea
+T15;T19;19;Effetti della penetrazione di corpo estraneo attraverso un orifizio naturale
+T20;T25;19;Ustioni e corrosioni della superficie corporea esterna di sede specificata
+T26;T28;19;Ustioni e corrosioni limitate all’occhio ed agli organi interni
+T29;T32;19;Ustioni e corrosioni di regioni corporee multiple e non specificate
+T33;T35;19;Congelamento
+T36;T50;19;Avvelenamento da farmaci, droghe e sostanze biologiche
+T51;T65;19;Effetti tossici di sostanze di origine principalmente non medicamentosa
+T66;T78;19;Altri e non specificati effetti di cause esterne
+T79;T79;19;Alcune complicanze precoci di traumatismi
+T80;T88;19;Complicanze di cure chirurgiche e mediche non classificate altrove
+T89;T89;19;Altre complicanze di traumatismo, non classificate altrove
+T90;T98;19;Sequele di traumatismi, di avvelenamenti e di altre conseguenze di cause esterne
+V01;X59;20;Incidenti
+X60;X84;20;Autolesionismo intenzionale
+X85;Y09;20;Aggressione
+Y10;Y34;20;Evento con intento indeterminato
+Y35;Y36;20;Intervento della forza pubblica e operazioni di guerra
+Y40;Y84;20;Complicanze di assistenza medica e chirurgica
+Z00;Z13;21;Persone che ricorrono ai servizi sanitari per visite ed analisi
+Z20;Z29;21;Persone a rischio potenziale per malattie trasmissibili
+Z30;Z39;21;Persone che ricorrono ai servizi sanitari per motivi connessi con la riproduzione
+Z40;Z54;21;Persone che ricorrono ai servizi sanitari per procedure e trattamenti specifici
+Z55;Z65;21;Persone con potenziali problemi di salute legati a condizioni socioeconomiche o a circostanze psicosociali
+Z70;Z76;21;Persone che ricorrono ai servizi sanitari in altre circostanze
+Z80;Z99;21;Persone con potenziali rischi della salute in relazione all’anamnesi personale e familiare ed a talune condizioni che influenzano lo stato di salute
+U00;U49;22;Assegnazione  provvisoria di nuove malattie di eziologia incerta, codici attribuiti e non attribuiti
+U50;U52;22;Limitazione funzionale
+U55;U55;22;Iscrizione in lista per trapianto d’organo
+U60;U61;22;Stadiazione dell’infezione da HIV
+U62;U62;22;Codici secondari per la specificazione di differenziazioni citogenetiche e genetico-molecolari nei tumori
+U63;U63;22;Codici secondari per la specificazione di disturbi psichici e comportamentali
+U69;U69;22;Altri codici secondari per scopi particolari
+U80;U85;22;Agenti infettivi con resistenze a determinati antibiotici o chemioterapici
+U98;U99;22;Codici attribuiti e non attribuiti

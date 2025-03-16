@@ -6,3 +6,7 @@ spring:
         uris: http://localhost:9200
         evolution:
             historyIndex: icd10-es-evolution
+    ai:
+        ollama:
+            embedding:
+                model: nomic-embed-text
