@@ -5,7 +5,7 @@ import org.springframework.data.elasticsearch.annotations.Document
 import org.springframework.data.elasticsearch.annotations.Field
 
 @Document(indexName = "icd10")
-data class Icd10EmbeddingDocument(
+data class Icd10EmbeddingDocument (
     @Id
     val id: String,
 
